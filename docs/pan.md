@@ -6,11 +6,11 @@
 
 若您有兴趣长期帮助分流，可加入TG群组[联系](/chat)。
 
-
-### 网盘分流 {pan}
+### 网盘分流
 
 若有失效请[联系](/chat)。
 
 #### Slow Loop
 
 * [阿里云盘](https://www.aliyundrive.com/s/iGZCxDbTM2F)
+* [国际线路](https://share.lavaanime.top/)
