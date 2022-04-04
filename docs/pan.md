@@ -13,4 +13,5 @@
 #### Slow Loop
 
 * [阿里云盘](https://www.aliyundrive.com/s/iGZCxDbTM2F)
-* [国际线路](https://share.lavaanime.top/)
+* [OneDrive 国际](https://share.lavaanime.top/1AG/[2022-01]%20Slow%20Loop%20323626)
+* [Cloudflare](https://share.lavaanime.top/1AG%20-%20Cloudflare/[2022-01]%20Slow%20Loop%20323626)
