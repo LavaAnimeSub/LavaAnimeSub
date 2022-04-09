@@ -6,12 +6,12 @@
 
 若您有兴趣长期帮助分流，可加入TG群组[联系](/chat)。
 
-### 网盘分流
+### 全部作品网盘分流
 
 若有失效请[联系](/chat)。
 
-#### Slow Loop
+阿里云盘可能部分新番上传不及时，OneDrive 为自动；
 
-* [阿里云盘](https://www.aliyundrive.com/s/iGZCxDbTM2F)
-* [OneDrive 国际](https://share.lavaanime.top/1AG/[2022-01]%20Slow%20Loop%20323626)
-* [Cloudflare](https://share.lavaanime.top/1AG%20-%20Cloudflare/[2022-01]%20Slow%20Loop%20323626)
+* [阿里云盘](https://www.aliyundrive.com/s/bguW5pr2kwc)
+* [OneDrive 国际](https://share.lavaanime.top/1AG)
+* [Cloudflare](https://share.lavaanime.top/1AG%20-%20Cloudflare)
