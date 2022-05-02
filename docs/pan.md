@@ -10,6 +10,6 @@
 若有失效请[联系](/chat)。
 阿里云盘可能新番上传不及时，OneDrive 和 Cloudflare 为自动；
 
-* [阿里云盘](https://www.aliyundrive.com/s/bguW5pr2kwc)
+* [阿里云盘](https://www.aliyundrive.com/s/bguW5pr2kwc)（注：部分格式文件如压缩包无法显示）
 * [OneDrive 国际](https://share.lavaanime.top/1AG)
 * [Cloudflare](https://share.lavaanime.top/1AG%20-%20Cloudflare)
