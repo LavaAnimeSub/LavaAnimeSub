@@ -12,11 +12,11 @@
 
 ## 发布
 
-我们目前并没有拿到**所有**主流BT站点的发布权限，下面是能够找到本组的站点：
+本组资源标题前会带有【熔岩动画】标识。我们目前并没有拿到**所有**主流BT站点的发布权限，下面是能够找到本组的站点：
 
-| 站点                                                                                                               | 状态 | 备注                                                            |
-| ------------------------------------------------------------------------------------------------------------------ | ---- | --------------------------------------------------------------- |
-| [萌番组 (bangumi.moe)](https://bangumi.moe/tag/61f41a5f57d0f000073c6ced)                                              | 取得 | 感谢萌番组最早授权发布                                          |
-| [动漫花园 (share.dmhy.org)](https://share.dmhy.org/topics/list/user_id/755364)                                        | 共用 | 目前使用 [MingYSub](https://www.mingysub.top/#/) 的发布组          |
-| [蜜柑计划 - Mikan Project (mikanani.me)](https://mikanani.me/)                                                        | 镜像 | 未取得权限，但会从萌番组镜像，在相应番剧“生肉/不明字幕”中可见 |
-| [末日動漫資源庫 (acgnx.se)](https://share.acgnx.se/search.php?sort_id=0&keyword=%E7%86%94%E5%B2%A9%E5%8A%A8%E7%94%BB) | 镜像 | 未取得权限，但会从萌番组镜像。                                  |
+| 站点（点击查看列表）                                                                                               | 状态 | 备注                                                  |
+| ------------------------------------------------------------------------------------------------------------------ | ---- | ----------------------------------------------------- |
+| [萌番组 (bangumi.moe)](https://bangumi.moe/tag/61f41a5f57d0f000073c6ced)                                              | 取得 | 发布中，感谢萌番组最早授权                            |
+| [蜜柑计划 - Mikan Project (mikanani.me)](https://mikanani.me/Home/PublishGroup/365)                                   | 取得 | 发布中                                                |
+| [动漫花园 (share.dmhy.org)](https://share.dmhy.org/topics/list/user_id/755364)                                        | 共用 | 目前使用[MingYSub](https://www.mingysub.top/#/) 的发布组 |
+| [末日動漫資源庫 (acgnx.se)](https://share.acgnx.se/search.php?sort_id=0&keyword=%E7%86%94%E5%B2%A9%E5%8A%A8%E7%94%BB) | 镜像 | 未取得权限，但会站点会自动镜像萌番组 / 动漫花园。     |
