@@ -34,6 +34,8 @@
 
 在 2023 年 1 月 15 日已发布[基于 BD 版本的修正合集](https://bangumi.moe/torrent/63c3d25c1bdd670007688204)，统一全部字幕为中日双语、修复字幕中不同的翻译风格、优化样式特效、压制更好的版本。
 
+在 2025 年 5 月 17 日已发布简日、繁日双语的 BDRip 校对合集，制作了内嵌和内封版本。这一版本由 MingYSub 修整重置，详见：[简日内嵌](https://bangumi.moe/torrent/68284919c7f6470007cd5aa2)、[繁日內嵌](https://bangumi.moe/torrent/6828491dc7f6470007cd5ac4) 以及 [简繁日内封](https://bangumi.moe/torrent/6828493fc7f6470007cd5c0a)。
+
 :::
 
 ### 二改字幕
